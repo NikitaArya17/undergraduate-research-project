@@ -1,0 +1,5 @@
+Total trials = 200
+OF which 100 centre, 100 left and right
+3 lags of 1 ,2, 8 - no of images between distrator and target
+so 3 * 3 = 9
+So divide 200 / 9
