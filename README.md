@@ -7,3 +7,5 @@ It should be noted that this codebase has resulted from the work that several st
 My specific contributions include the section of code involved in integrating the existing code with an externally connected [Tobii Pro Nano](https://connect.tobii.com/s/products/more/discontinued/tobii-pro-nano?language=en_US) eye-tracking device, so that the program could collect gaze data recorded by the device, and use this input to decice when to present a series of images to participants.
 
 My contributions in this area include modifications to the `gaze_data_buffer()` function, the addition of eye-tracker calibration section in the `run()` function and a modification of the 'Fixation routine' in the `run()` function by adding a flag that will evaluate to `True` and produce the required output when the participant directs their gaze to the correct area on the screen.
+
+The latest version of the Psychopy software must be installed to run this code. Due to its specialised nature, the code cannot be run on a standard interpreter or IDE.
