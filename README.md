@@ -2,7 +2,7 @@
 For this project, I contributed to a codebase maintained by the Brain and Cognition Laboratory of Ahmedabad University, Ahmedabad, Gujarat, India, which is used to run 
 run psychology experiments that study human attention and visual processing of information. The code has been written in Python and extensively uses the Psychopy library and its associated packages. Psychopy is designed especially to conduct experiments involving the presentation of auditory and visual stimuli, and to record participants' responses, which may be made via mouse, keyboard or other externally connected device.
 
-It should be noted that this codebase has resulted from the work that several students have done before I joined the project.
+It should be noted that this codebase and its associated data files have resulted from the cumulative work of several students who joined the project before I did.
 
 My specific contributions include the section of code involved in integrating the existing code with an externally connected [Tobii Pro Nano](https://connect.tobii.com/s/products/more/discontinued/tobii-pro-nano?language=en_US) eye-tracking device, so that the program could collect gaze data recorded by the device, and use this input to decice when to present a series of images to participants.
 
