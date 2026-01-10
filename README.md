@@ -1,6 +1,6 @@
 # Undergraduate Psychology Research Project
 For this project, I contributed to a codebase maintained by the Brain and Cognition Laboratory of Ahmedabad University, Ahmedabad, Gujarat, India, which is used to run 
-run psychology experiments that study human attention and visual processing of information. The code has been written in Python and extensively uses the Psychopy library and its associated packages. Psychopy is designed especially to conduct experiments involving the presentation of auditory and visual stimuli, and to record participants' responses, which may be made via mouse, keyboard or other externally connected device.
+run cognitive psychology and neuroscience experiments that study, among other things, human attention and visual processing of information. The code has been written in Python and extensively uses the PsychoPy library and its associated packages. PsychoPy is designed especially to conduct experiments involving the presentation of auditory and visual stimuli, and to record participants' responses, which may be made via mouse, keyboard or other externally connected device.
 
 It should be noted that this codebase and its associated data files have resulted from the cumulative work of several students who joined the project before I did.
 
