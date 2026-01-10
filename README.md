@@ -8,4 +8,4 @@ My specific contributions include the section of code involved in integrating th
 
 My contributions in this area include modifications to the `gaze_data_buffer()` function, the addition of eye-tracker calibration section in the `run()` function and a modification of the 'Fixation routine' in the `run()` function by adding a flag that will evaluate to `True` and produce the required output when the participant directs their gaze to the correct area on the screen.
 
-The latest version of the Psychopy software must be installed to run this code. Due to its specialised nature, the code cannot be run on a standard interpreter or IDE.
+The latest version of the PsychoPy software must be installed to run this code. Due to its specialised nature, the code cannot be run on a standard interpreter or IDE.
