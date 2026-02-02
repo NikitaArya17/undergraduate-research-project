@@ -13,5 +13,6 @@ My contributions include modifications to the `gaze_data_buffer()` function, the
 
 The latest version of the PsychoPy software must be installed to run this code. Due to its specialised nature, the code cannot be run on a standard interpreter or IDE.
 
-### Potential Applications in Digital Health ###
-As this program precisely records human eye movements and gaze data, it could potentially be used as a diagnostic tool for attention-related conditions such as ADHD, though more research is required to determine its accuracy and suitability for medical purposes, particularly as it was not originally designed with this goal in mind.
+## Potential Applications in Digital Health ##
+### Diagnostic Assistance for Attention-Related Disorders
+As this program precisely records human eye movements and gaze data, it could potentially be used as a diagnostic tool for attention-related conditions such as ADHD, though more research would be required in order to improve its accuracy and suitability for medical purposes.
